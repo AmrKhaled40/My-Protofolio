@@ -156,7 +156,7 @@ h2{
 
 .project-card h3 {
     margin: 0 0 0.5rem;
-    color: #ec4899;
+    color: hsl(75, 94%, 57%);
 }
 
 .project-card p {
