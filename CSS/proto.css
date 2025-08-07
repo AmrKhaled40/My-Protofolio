@@ -119,6 +119,7 @@ h2{
     color: hsl(0, 0%, 8%);
 }
 
+
 #learn div{
     display: flex;
     flex-wrap: wrap;
@@ -172,4 +173,3 @@ h2{
     background: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 8%);
 }
-
