@@ -54,8 +54,8 @@ nav img{
     margin-top: 30px;
     margin-bottom: 5px;
     border-radius: 20%;
-    border: dotted #ccc;
-    transition: 300ms;
+    border: #ccc;
+    transition: 600ms;
 }
 
 nav img:hover{
